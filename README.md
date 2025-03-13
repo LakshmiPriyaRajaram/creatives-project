@@ -38,6 +38,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 🌐 Live Demo  
-🚀 Check out the live version of the project here: **[https://lakshmipriyarajaram.github.io/creatives-project/]**  
+🚀 Check out the live version of the project [here](https://lakshmipriyarajaram.github.io/creatives-project/)  
 
 Enjoy exploring Creatives! 🎨✨  
